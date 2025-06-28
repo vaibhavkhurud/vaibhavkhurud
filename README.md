@@ -63,7 +63,7 @@
 ## 🌱 Latest Projects
 
 <!-- Add links to your best or most recent projects here -->
-- [Project 1](#)
+- [Project 1](https://github.com/vaibhavkhurud/Whether-App-using-React)
 - [Project 2](#)
 - [Project 3](#)
 
