@@ -64,8 +64,8 @@
 
 <!-- Add links to your best or most recent projects here -->
 - [Project 1](https://github.com/vaibhavkhurud/Whether-App-using-React)
-- [Project 2](#)
-- [Project 3](#)
+- [Project 2](https://github.com/vaibhavkhurud/ReactRouterDemo)
+- [Project 3](https://github.com/vaibhavkhurud/Travel-management-project-php)
 
 ---
 
